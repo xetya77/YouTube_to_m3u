@@ -480,7 +480,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770501245/ei/HWCHadeHLrDdybgPuIjpkAY/ip/172.184.175.146/id/1ph8qQnjXts.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qnQA0SEwnmvNi1utUGTto6LrNJDDNhIUnje0IB7Id0zg580Idx46t8KRUVKTJtGzkz4z4Spe_I/spc/q5xjPP3HbUQPQyv6zbLBFi2B6xVFAtm1VW2vpyojCPKSES-rrIc3k7KPUr5X0cQYHlqBmA/vprv/1/go/1/ns/SCIOi0VjenuE7nPDotycpEwS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/_Yh9Z-iNnsECUWZep/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRQIgae1jwG1z3zpMQfJaGyeXULHu_eXZcpyTUiN8ABAkX0UCIQCHre2Vpt2l5On3A-1ayGadeahMOIPUnqdkGXsqKfXumQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", HSN2
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -531,7 +531,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Sanxiantai
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1770494337/ei/IEWHaf7oN6uZ-coPubbC2Ak/ip/135.232.232.48/id/dQ7Sd6PGLdA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rTFMWtaRWfa8625Ez2HkjXrYrJqSv21jyp5ju_kHl_is3EsHMW0bFyKzodUTpLedqHlc_hDNl1/spc/q5xjPE7185pcJmfEgA2ijlV7uA9Whv8ezFjqG5JvKQho39l_nQCgxZ_mUovlmJMV_8u2Sw/vprv/1/go/1/ns/-qL_6P0COX3_6mGWynC_SAMS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/BiJXjoUKk0A4iCTyk/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhANIgPTvXjB_Ouubv-NN_yFeMcllYGlBnwI6ladTQZa3dAiEAyOrMKyb4ZbNwrX2PxXJGaekE1Y9U-oP3h3i1nM3tH14%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Shihmen Reservoir Live Cam
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
