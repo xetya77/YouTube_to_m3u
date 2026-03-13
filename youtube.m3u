@@ -498,7 +498,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taiwan Taipei Bishan Temple
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773389717/ei/NXOzad71AvPfybgPufj3wAk/ip/52.173.237.212/id/uvwfYzwY8tg.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51794311/txs/51794307%2C51794308%2C51794309%2C51794310%2C51794311%2C51794312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-xV97nR_XmjpzGJXrU7hf8XbTJgj_RYqIZWTnQlWJ8gfAr47dF5aEXpK25rjQ12e-BYW-rAXdx2/spc/6dlaFI8hOc5k1WgrdPxr8fyHVNJ6EuZl4zBRHww_XsRnM3Y_zAhkXWv-ZVjGAEGFklWtsw/vprv/1/go/1/ns/ObOlNRDCdaNe6E5j5pGhqp8T/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51791334/dover/11/n/oz9OZbyWIv19do-1W1x/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgPauOx0EU4IRUgeUOQSgMUeisK__O8b4IhSxTid6U-tYCIQCB_qoh0bHJm5TBBkha_GhcypyyK3zReBnpQz3kHllC3A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan Landscape" tvg-logo="" tvg-id="", Taiwan Kaohsiung Shoushan Lovers' Viewing Platform
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
