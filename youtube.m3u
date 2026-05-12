@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png" tvg-id="", Asianet News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778645540/ei/xKUDaqnyMvvElu8PkOm2-Ao/ip/104.209.10.227/id/s0LLVQeMmtU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AbKmrwqaCsiHBoTBNuSkKEKH73EO-87kbRmhkTd6rDpDRXq-oal-UY0ruz6k-wcMicZy-f6mfYU31cdG/spc/96XrvxadvLBF-wYysZUGCcY1DgDvwOyh9SEwnL4Gm4UImfN2f70jenFRQkuE-oBIgAmHvw/vprv/1/go/1/ns/ZojcA4N6ZTgGwmUk8bED_SgV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/pSjIpE3NaW3Dqy9Q/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAIe76EHJvMPgzkTpPxgKbTMc0bzyO-6MxAyZUMbPW_H_AiEAuaRP28VDP_nzzI9fGlyMNJoDX1jb3Y1vjic-DrLYrvA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="", Mathrubhumi News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
