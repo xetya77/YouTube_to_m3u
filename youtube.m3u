@@ -396,7 +396,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", OTV 24x7
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782447827/ei/c6o9ar3IE-G30_wPy7PcwAM/ip/172.182.200.150/id/RSX2IJGjFnw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWyyKx9NNGBsYDJlaq4gU8eDSzMJx_TRxqi8QYia5L22x0X10iVptUvCa6irnOBTP2kNsc1sGix/spc/SQ-umkfoSBLk1JnVdg1Qjp0S1U_kna__KakqhXDQ20Qc42PxggssstpHJSCxzzx-whE-xA/vprv/1/go/1/ns/EOX9bt1SNNe3Ob5hFI2-_KYW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987687%2C52017146/dover/11/n/R9Jbi9Wr2FU52_R3q/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhANxL8u6ZjjC1H6IELgtESz_9ZUlyHnFC4si8R2tOMMtNAiAdioK7fqD3qjSowW0F4W2i5Abo4fPhUc2693iX9zLLYQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
