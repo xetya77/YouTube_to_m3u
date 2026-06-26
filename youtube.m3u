@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Roland Martin Unfiltered
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782525025/ei/Adg-asSRM73qlu8P3Km_wQg/ip/52.237.143.50/id/I7dPShyDt0g.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEUAZqCrT4OBqP9aGCSJAbIiAw8gpCDTxtev-b0Q_bSpUhHdruerQ6lHQD2ECXqx3w1ppAP4LJeo/spc/SQ-umiwAnFJB1LrWgoVgifT3fOno-ZZeg5Suke_PNiywb62ljcuBxyEWhmbTqjXrT1vOkQ/vprv/1/go/1/ns/qIpm2PetXXZdCLW1SwwhTLkW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51987687%2C52017146/dover/11/n/N7pt1dWIReUUhSUJ2/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgXGutgETkRe8eINVruYewp8ZkomPWNbC-ptsaJGO6AMMCIAqVmGnH7xuMOTRxQTemzPSWX0FVR82KcR-RTCRc1c9G/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Sky News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -447,7 +447,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="" tvg-id="", Molek FM live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782525135/ei/btg-auDoOtaUir4Pg_DamAo/ip/52.237.143.50/id/uRMrToRteyE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51929567/txs/51929566%2C51929567%2C51929568/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWta8PHJXBatTlFG2xwtQ8kqIYoey_ZeEq33-hcr-8Tja7VevhNKQHyGvVRnTd-Y50XB2tt_M8J/spc/SQ-umjSdE9Vtd02tpy7YW1DQzLRYVBUzUm6jvN1U-rnK-nx0FgJHi1VCQz3bEfO7j8tlvA/vprv/1/go/1/ns/xQd4P5iRW0nTpPPMjp8l6sAW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681%2C51946837%2C51987687/dover/11/n/f7tkVtMrEY-MoLop6/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgULw_3rNq7gGzMylndVhg8_z6Oui-d_SfdjfxqbEBkVwCIEMkbxGlIPEDvCQs-eBMfJmv3lIWCw0KvVgyvL1aElG6/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", CGTN News Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
