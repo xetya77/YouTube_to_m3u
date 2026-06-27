@@ -51,13 +51,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782589533/ei/_dM_as_CKLKylu8Pseqb0Qc/ip/52.161.59.3/id/aj2yjWhAu90.1~45728542/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWzXj7-gPb4QlpB2gY3SHgH0jwgzX49B5Gl3maC9BqQLxEnhlnRUiRS9uNybox0dqfVCnPUPbaY/spc/SQ-umkKBgFKPCA3iJCR_f1nCc-MMPnxMsIeP2KTC0rYBSU9nuMMVm4P4K_E1bl8B_tQ3Ew/vprv/1/go/1/ns/TELOtBGKdXBZ0j2i5TNMSA0W/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/nUpl-xW8rxoSJjDd4/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAP9XWlVentFzTr1P3tLTvZhBzqpuOCZCbBjeiFiMHncBAiEAu7HXIam4FXhAH8O0bLmwHZcogmVV_-e_5kJoqYdAZw0%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Urdu" tvg-logo="" tvg-id="", GNN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782589536/ei/ANQ_arWrMr6X2_gP8sOFyQk/ip/52.161.59.3/id/Pzv58lUgiVo.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/ss/1/ssa/1/bui/ARmQxEUu4htFaLJtCkCuOjenwIFPmVKz8Xezz9ouyoyail5A69SllFHe87heryTi_xSzZVxjuQwIIvJC/spc/SQ-umm-XEKvvBVFUx-jfbX0YEuW_m9MS25vhfJ8AmF7Te-_boTGG0WoTi0o/vprv/1/go/1/ns/Ls7Hy_g47qyugVVji0-GVTgW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C52017146/dover/11/n/p0IsOSJn2EmycgxOE/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgDgUvpCy64XNmqvyZ3cnGBnzJq5C0hRiKdcsc6qAYh_oCIQDoA8N-QpJ3iIckA95Sqmxm70zfRbXAKso-wAQBriGTWQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
