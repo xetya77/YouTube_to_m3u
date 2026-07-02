@@ -399,7 +399,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Odisha" tvg-logo="" tvg-id="", News 18 Odia
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782985442/ei/gt5Fapi5Ku6mlu8Py9y90A8/ip/52.162.137.99/id/59IpLLkouDQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEVaVOW9Sm_mTxme3-L8OtD-gUIW_MSGz6N1ehv8lmJlVZOacl1stFAhAj5AvMAmJRnSo46G5cgi/spc/SQ-umtN4L829idnnL11kb38TYg8VYc6o3AKyiQA5y1o4GT1WwcDuOkniutjgLyEx3VrEpg/vprv/1/go/1/ns/CU5W4pD3nlq_v87akPg1LCgW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52016550%2C52017146/dover/11/n/iLuA9h9ee_WjdDEz/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAOpl9sPMzpuY5qZo4kEfpbVJMwTBiZgOnW-wWDdEQ-4CAiAiWhi00iQ840hI7T-wA20A7ZC64JU0jeiyattDcwWKGQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Kitten Academy Livestream
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
