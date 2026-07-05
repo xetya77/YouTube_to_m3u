@@ -471,7 +471,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", A State Of Trance Radio
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783244128/ei/_9BJatipPPe0ir4PtqzI4Ac/ip/64.236.177.114/id/NGsjwNsXE0w.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ARmQxEVddIwfcx5i9C3oRz8iE2Saiw_oDWLb2Jt_RvXF_nEI8yOU0LNOKlMN1CoWKWtEZ1jrTy-sZ3Le/spc/SQ-umvi5fKBgDfB5i9y4tihu2e6FQdGSBQRNcuKQdo3WJP7kYQHtZDRIrpK_e0UMMX4kbw/vprv/1/go/1/ns/rKm6nBpWS5HnMSgq6XmpswoW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52016550%2C52017146/dover/11/n/c10goCMDxITleNb/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgN6V3DVlinNw03TdPKPDLUBBINrsFgqD7DDidbMAd4AwCIQCBQfTfkgM4INb-k-zvn6pc9H8lM7espWCJSiCmp1t2jg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="" tvg-id="", Geo News Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
